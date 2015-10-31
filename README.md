@@ -37,7 +37,7 @@ existing key is inputted, the value for that key will be replaced with the new e
 
 ## Algorithm Complexity
 
-* ##### Without collision
+* Without collision
 	* Best/Average/Worse Case - set, get, delete - O(1)
-* ##### With collision
+* With collision
 	* Worse Case - set, get, delete  - O(N)
