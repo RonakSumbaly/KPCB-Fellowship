@@ -131,7 +131,6 @@ class HashMap(object):
 
             if self.hashMap[nextPos][0] is None or self.hashMap[nextPos][0] == key:
                 return nextPos
-
             else:
                 return None
 
